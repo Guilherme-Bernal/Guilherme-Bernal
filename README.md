@@ -5,7 +5,7 @@ I currently participate in a Maia Project, an artificial intelligence and I am w
 <div align="center">
   <a href="https://github.com/Guilherme-Bernal">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Bernal&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Bernal&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Bernal&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 
