@@ -1,6 +1,6 @@
- ## Hello world, My name is Guilherme Savassa Bernal 
-I am a 4th semester student of Computer Engineering at Facens University located in São Paulo, Brazil.
-I currently participate in a Maia Project, an artificial intelligence and I am working on an open source project by Google liquid galaxy and I participate in a scientific initiation Route 2030 focused on the electrical area where I am responsible for the creation of the hardware and the construction of the Firmware
+## Hello world, my name is Guilherme Savassa Bernal
+I am a 5th semester student of Computer Engineering at Facens University located in São Paulo, Brazil.
+I have already participated in projects at artificial intelligence, integrated mobility and metaverse.
 
 <div align="center">
   <a href="https://github.com/Guilherme-Bernal">
