@@ -1,5 +1,5 @@
 ## Hello world, my name is Guilherme Savassa Bernal
-I am a 5th semester student of Computer Engineering at Facens University located in São Paulo, Brazil.
+I am a 6th semester student of Computer Engineering at Facens University located in São Paulo, Brazil.
 I have already participated in projects at artificial intelligence, integrated mobility and metaverse.
 
 <div align="center">
