@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, world! I'm Guilherme Savassa Bernal</h1>
 
 <p align="center">
-🚀 9th-semester Computer Engineering student at <strong>Facens University</strong>, São Paulo, Brazil.<br>
+🚀 10th-semester Computer Engineering student at <strong>Facens University</strong>, São Paulo, Brazil.<br>
 💡 Passionate about <strong>Artificial Intelligence</strong>, <strong>Integrated Systems</strong>, <strong>Metaverse</strong>, <strong>Data Engineering</strong>, <strong>Quantum Computing</strong>, and <strong>IT Project Management</strong>.
 </p>
 
