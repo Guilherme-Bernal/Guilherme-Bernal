@@ -16,100 +16,126 @@
 
 ---
 
-## Professional Summary
+## 👨‍💻 About Me
 
-Dedicated Computer Engineering student with extensive experience in **Artificial Intelligence**, **Systems Integration**, and **Full-Stack Development**. Specialized in developing scalable solutions using cutting-edge technologies including quantum computing, machine learning, and IoT systems. Proven track record in project management and cross-functional collaboration.
+Computer Engineering student with hands-on experience in **Artificial Intelligence**, **Systems Integration**, and **Full-Stack Development**. Passionate about building scalable solutions using modern technologies including quantum computing, machine learning, and IoT systems.
 
-**Core Competencies:**
-- Advanced AI/ML implementation and deployment
-- Enterprise-grade systems integration
-- Full-stack web and mobile development
-- Quantum computing algorithm development
-- Cloud infrastructure and DevOps practices
-- Technical project leadership and management
+**What I Bring:**
+- AI/ML development and deployment experience
+- Systems integration and automation expertise
+- Full-stack development across multiple platforms
+- Strong foundation in embedded systems and electronics
+- Collaborative mindset and continuous learning approach
 
 ---
 
-## Technical Expertise
+## 💻 Technical Skills
 
 ### Programming Languages
 
-<div align="center">
-
 | Language | Proficiency | Primary Applications | Experience |
-|:--------:|:-----------:|:-------------------:|:----------:|
-| **Python** | Expert | AI/ML, Data Science, Backend APIs | 4+ years |
-| **JavaScript/TypeScript** | Expert | Full-Stack Web Development | 4+ years |
-| **Java** | Advanced | Enterprise Backend, Android | 3+ years |
-| **C#** | Advanced | Desktop Applications, .NET APIs | 3+ years |
-| **Q#** | Intermediate | Quantum Computing Algorithms | 2+ years |
-| **Rust** | Intermediate | Systems Programming, WebAssembly | 1+ year |
+|----------|-------------|---------------------|------------|
+| **JavaScript/TypeScript** | Intermediate | Full-Stack Web Development | 3+ years |
+| **Python** | Intermediate | AI/ML, Data Science, Backend APIs,Data analysis| 3+ years |
+| **C#** | Intermediate | Desktop Applications, .NET APIs | 3+ years |
+| **C** | Intermediate | Embedded Systems, Electronics, Microcontrollers | 3+ years |
+| **Java** | Intermediate | Enterprise Backend, Android Development | 3+ years |
+| **Rust** | Intermediate | Systems Programming, Performance-Critical Apps | 3+ years |
+| **Q#** | Beginner/Intermediate | Quantum Computing Algorithms | 2+ years |
+| **Go** | Beginner/Intermediate | Systems Programming, WebAssembly | 1+ year |
 
-</div>
+### Technologies & Frameworks
 
-### Frameworks & Technologies
+<details>
+<summary><b>Frontend Development</b></summary>
 
-**Frontend Development:**
-- React.js, Angular, Vue.js
-- TypeScript, Modern CSS, Responsive Design
-- Progressive Web Apps (PWA)
+- **Frameworks:** React.js, Angular, Vue.js
+- **Languages:** TypeScript, JavaScript, HTML5, CSS3
+- **Tools:** Webpack, Vite, Tailwind CSS
+- **Concepts:** Responsive Design, PWA, Component Architecture
 
-**Backend Development:**
-- Node.js, Django, FastAPI, ASP.NET Core
-- RESTful APIs, GraphQL, Microservices Architecture
-- Authentication & Authorization (OAuth, JWT)
+</details>
 
-**AI & Machine Learning:**
-- TensorFlow, PyTorch, scikit-learn
-- Natural Language Processing, Computer Vision
-- MLOps, Model Deployment, AutoML
+<details>
+<summary><b>Backend Development</b></summary>
 
-**Cloud & DevOps:**
-- AWS, Microsoft Azure
-- Docker, Kubernetes, CI/CD Pipelines
-- Infrastructure as Code (Terraform)
+- **Frameworks:** Node.js, Django, FastAPI, ASP.NET Core
+- **Architecture:** RESTful APIs, GraphQL, Microservices
+- **Security:** OAuth, JWT, API Authentication
+- **Tools:** Express.js, NestJS, Flask
 
-**Databases:**
-- PostgreSQL, MongoDB, MySQL, Redis
-- Data modeling, Query optimization
-- Big Data technologies (Apache Spark)
+</details>
 
-### Specialized Technologies
+<details>
+<summary><b>AI & Machine Learning</b></summary>
+
+- **Libraries:** TensorFlow, PyTorch, scikit-learn
+- **Domains:** NLP, Computer Vision, Predictive Analytics
+- **Tools:** Jupyter, MLflow, Weights & Biases
+- **Techniques:** Deep Learning, Neural Networks, Model Optimization
+
+</details>
+
+<details>
+<summary><b>Cloud & DevOps</b></summary>
+
+- **Cloud Platforms:** AWS, Microsoft Azure
+- **Containerization:** Docker, Kubernetes
+- **CI/CD:** GitHub Actions, Jenkins, GitLab CI
+- **IaC:** Terraform (learning)
+
+</details>
+
+<details>
+<summary><b>Databases</b></summary>
+
+- **SQL:** PostgreSQL, MySQL
+- **NoSQL:** MongoDB, Redis
+- **Concepts:** Data Modeling, Query Optimization, Indexing
+
+</details>
+
+<details>
+<summary><b>Specialized Areas</b></summary>
 
 **Quantum Computing:**
 - Microsoft Q#, Qiskit Framework
-- Quantum algorithms implementation
-- Quantum machine learning research
+- Quantum algorithm implementation
+- Quantum machine learning exploration
 
-**IoT & Systems Integration:**
+**IoT & Embedded Systems:**
 - MQTT, CoAP protocols
-- Edge computing solutions
-- Industrial automation systems
+- Microcontroller programming (Arduino, ESP32)
+- Sensor integration and data acquisition
+- Industrial automation concepts
+
+</details>
 
 ---
 
-## Project Portfolio
+## 🚀 Featured Projects
 
-### Featured Projects
+### 🤖 AI-Powered Analytics Platform
+Comprehensive machine learning pipeline for business intelligence and predictive analytics
+- **Tech Stack:** Python, TensorFlow, React, PostgreSQL, AWS
+- **Key Features:** Real-time predictions, data visualization, automated reporting
+- **Impact:** Enhanced decision-making through data-driven insights
 
-**AI-Powered Business Intelligence Platform**
-- Developed comprehensive ML pipeline for predictive analytics
-- Technologies: Python, TensorFlow, React, PostgreSQL, AWS
-- Impact: 40% improvement in forecast accuracy
+### 🏭 Industrial IoT Monitoring System
+Real-time monitoring solution for industrial equipment and sensors
+- **Tech Stack:** C#, MQTT, Azure IoT Hub, Docker
+- **Scale:** Multi-facility deployment with 100+ connected devices
+- **Features:** Real-time alerts, historical data analysis, dashboard visualization
 
-**Industrial IoT Monitoring System**
-- Real-time sensor data collection and analysis
-- Technologies: C#, MQTT, Azure IoT Hub, Docker
-- Scope: 100+ connected devices across multiple facilities
-
-**Quantum Algorithm Optimization Suite**
-- Implementation of quantum algorithms for optimization problems
-- Technologies: Q#, Qiskit, Python
-- Research focus: Quantum machine learning applications
+### ⚛️ Quantum Computing Research
+Implementation and optimization of quantum algorithms for practical problems
+- **Tech Stack:** Q#, Qiskit, Python
+- **Focus Areas:** Quantum optimization, quantum machine learning
+- **Learning:** Exploring quantum algorithms and their classical simulation
 
 ---
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -120,63 +146,15 @@ Dedicated Computer Engineering student with extensive experience in **Artificial
 
 ---
 
-## Professional Development
-
-### Current Focus Areas (2025)
-- **Quantum Computing**: Advanced algorithm development and quantum machine learning
-- **AI/ML Engineering**: Large Language Models (LLMs) and Generative AI applications
-- **Cloud Architecture**: Kubernetes orchestration and cloud-native development
-- **Leadership**: Technical team management and project delivery
-
-### Certifications & Learning Path
-- **Microsoft Azure Fundamentals** (In Progress)
-- **AWS Solutions Architect** (Planned)
-- **Quantum Computing Specialization** (IBM Qiskit)
-
----
-
-## Areas of Interest
-
-```
-• Artificial Intelligence & Machine Learning
-• Quantum Computing & Quantum Machine Learning  
-• Systems Integration & IoT Solutions
-• Cloud Computing & DevOps Engineering
-• Data Engineering & Analytics
-• Technical Project Management
-• Emerging Technologies Research
-```
-
----
-
-## Professional Objectives
-
-**Short-term Goals:**
-- Complete advanced certifications in cloud computing and AI/ML
-- Contribute to open-source quantum computing projects
-- Develop enterprise-grade AI solutions
-
-**Long-term Vision:**
-- Lead technical innovation in AI and quantum computing applications
-- Bridge the gap between cutting-edge research and practical business solutions
-- Mentor emerging technologies adoption in enterprise environments
-
----
-
-## Contact Information
-
-**Professional Email:** [guisavassabernal@gmail.com](mailto:guisavassabernal@gmail.com)
-
-**LinkedIn:** [linkedin.com/in/guilherme-savassa-bernal](https://www.linkedin.com/in/guilherme-savassa-bernal)
-
-**Location:** São Paulo, Brazil | Available for remote collaboration
-
----
 
 <div align="center">
 
-**Open to collaborating on innovative projects in AI, quantum computing, and systems integration**
+## 💭 Inspiring Quotes
 
-![Profile Views](https://komarev.com/ghpvc/?username=Guilherme-Bernal&color=2F81F7&style=flat)
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4000&pause=2000&color=00D9FF&center=true&vCenter=true&width=850&lines=%22Talk+is+cheap.+Show+me+the+code.%22+—+Linus+Torvalds;%22The+best+way+to+predict+the+future+is+to+invent+it.%22+—+Alan+Kay;%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22+—+Cory+House;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+—+John+Johnson;%22Simplicity+is+the+soul+of+efficiency.%22+—+Austin+Freeman;%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22+—+Kent+Beck;%22Any+fool+can+write+code+that+a+computer+can+understand...%22+—+Martin+Fowler;%22...Good+programmers+write+code+that+humans+can+understand.%22;%22Programs+must+be+written+for+people+to+read.%22+—+Harold+Abelson;%22The+only+way+to+learn+a+new+programming+language...%22+—+Alan+Perlis;%22...is+by+writing+programs+in+it.%22;%22Innovation+distinguishes+between+a+leader+and+a+follower.%22+—+Steve+Jobs;%22Stay+hungry%2C+stay+foolish.%22+—+Steve+Jobs;%22Your+most+unhappy+customers+are+your+greatest+source...%22+—+Bill+Gates;%22...of+learning.%22;%22I+think+it's+fair+to+say+that+personal+computers...%22+—+Bill+Gates;%22...have+become+the+most+empowering+tool+we've+ever+created.%22;%22The+Web+as+I+envisaged+it%2C+we+have+not+seen+it+yet.%22+—+Tim+Berners-Lee;%22Data+is+a+precious+thing+and+will+last+longer...%22+—+Tim+Berners-Lee;%22...than+the+systems+themselves.%22;%22In+order+to+be+irreplaceable%2C+one+must+always+be+different.%22" alt="Tech Quotes" />
+
+</div>
 
 </div>
