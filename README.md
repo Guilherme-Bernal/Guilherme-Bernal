@@ -1,9 +1,9 @@
 <div align="center">
 
 # Guilherme Savassa Bernal
-## Computer Engineering Student | AI & Systems Integration Specialist
+## Computer Engineering Student | Full-Stack Developer & Cybersecurity Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=18&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Computer+Engineering+%7C+Facens+University;Artificial+Intelligence+%26+Machine+Learning;Systems+Integration+%26+IoT+Solutions;Full-Stack+Development+Expertise" alt="Professional Summary" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=18&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Computer+Engineering+%7C+Facens+University;Full-Stack+Development+%26+Cybersecurity;AI%2FML+%26+Systems+Integration;Secure+Coding+%26+IoT+Solutions" alt="Professional Summary" />
 
 ### 🎓 Facens University - Computer Engineering (10th Semester)
 ### 📍 São Paulo, Brazil
@@ -18,13 +18,14 @@
 
 ## 👨‍💻 About Me
 
-Computer Engineering student with hands-on experience in **Artificial Intelligence**, **Systems Integration**, and **Full-Stack Development**. Passionate about building scalable solutions using modern technologies including quantum computing, machine learning, and IoT systems.
+Computer Engineering student specializing in **Full-Stack Development** with a strong focus on **Cybersecurity** and **Systems Integration**. Passionate about building secure, scalable solutions using modern technologies while maintaining best practices in application security, penetration testing, and secure coding.
 
 **What I Bring:**
+- Full-stack development with security-first approach
+- Cybersecurity assessment and secure coding practices
 - AI/ML development and deployment experience
 - Systems integration and automation expertise
-- Full-stack development across multiple platforms
-- Strong foundation in embedded systems and electronics
+- Strong foundation in network security and cryptography
 - Collaborative mindset and continuous learning approach
 
 ---
@@ -35,14 +36,16 @@ Computer Engineering student with hands-on experience in **Artificial Intelligen
 
 | Language | Proficiency | Primary Applications | Experience |
 |----------|-------------|---------------------|------------|
-| **JavaScript/TypeScript** | Intermediate | Full-Stack Web Development | 3+ years |
-| **Python** | Intermediate | AI/ML, Data Science, Backend APIs,Data analysis| 3+ years |
-| **C#** | Intermediate | Desktop Applications, .NET APIs | 3+ years |
-| **C** | Intermediate | Embedded Systems, Electronics, Microcontrollers | 3+ years |
+| **Python** | Advanced | AI/ML, Cybersecurity, Automation, Penetration Testing | 4+ years |
+| **JavaScript/TypeScript** | Intermediate | Full-Stack Web Development, Secure APIs | 3+ years |
+| **C#** | Intermediate | Desktop Applications, .NET APIs, Security Tools | 3+ years |
+| **C++** | Intermediate | Electrical Engineering, Signal Processing, Exploit Development | 3+ years |
 | **Java** | Intermediate | Enterprise Backend, Android Development | 3+ years |
-| **Rust** | Intermediate | Systems Programming, Performance-Critical Apps | 3+ years |
-| **Q#** | Beginner/Intermediate | Quantum Computing Algorithms | 2+ years |
-| **Go** | Beginner/Intermediate | Systems Programming, WebAssembly | 1+ year |
+| **Bash/Shell** | Intermediate | System Administration, Security Automation, Scripts | 3+ years |
+| **C** | Basic | Embedded Systems, Low-Level Programming, Buffer Analysis | 2+ years |
+| **Rust** | Beginner/Basic | Systems Programming, Memory Safety | 1+ year |
+| **Q#** | Beginner/Intermediate | Quantum Computing, Cryptography Research | 2+ years |
+| **Go** | Beginner/Intermediate | Systems Programming, Security Tools | 1+ year |
 
 ### Technologies & Frameworks
 
@@ -96,6 +99,36 @@ Computer Engineering student with hands-on experience in **Artificial Intelligen
 </details>
 
 <details>
+<summary><b>Cybersecurity & Security Tools</b></summary>
+
+**Security Assessment:**
+- Penetration Testing Tools: Metasploit, Burp Suite, OWASP ZAP
+- Network Analysis: Wireshark, tcpdump, Nmap
+- Vulnerability Scanning: Nessus, OpenVAS
+- Social Engineering: SET (Social Engineering Toolkit)
+
+**Secure Development:**
+- OWASP Top 10 awareness and mitigation
+- Secure coding practices (input validation, authentication, authorization)
+- API security (JWT, OAuth 2.0, rate limiting)
+- SQL Injection and XSS prevention
+- Cryptography: OpenSSL, cryptography libraries
+
+**Security Automation:**
+- Python security scripting (Scapy, Requests, BeautifulSoup)
+- Bash scripting for security tasks
+- Log analysis and SIEM basics
+- Incident response automation
+
+**Network Security:**
+- Firewall configuration and management
+- VPN setup and administration
+- IDS/IPS concepts (Snort, Suricata)
+- Network segmentation and hardening
+
+</details>
+
+<details>
 <summary><b>Specialized Areas</b></summary>
 
 **Quantum Computing:**
@@ -109,28 +142,43 @@ Computer Engineering student with hands-on experience in **Artificial Intelligen
 - Sensor integration and data acquisition
 - Industrial automation concepts
 
+**Electrical Engineering Applications:**
+- Signal processing and analysis
+- Real-time systems development
+- Circuit simulation and design
+- Control systems implementation
+
 </details>
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🔒 Security Assessment & Automation Platform
+Comprehensive security testing and vulnerability assessment framework
+- **Tech Stack:** Python, Metasploit, Burp Suite, Docker, PostgreSQL
+- **Key Features:** Automated vulnerability scanning, exploit testing, detailed reporting
+- **Security Focus:** OWASP Top 10 testing, API security assessment, network reconnaissance
+- **Impact:** Streamlined security testing workflows and improved vulnerability detection
+
 ### 🤖 AI-Powered Analytics Platform
 Comprehensive machine learning pipeline for business intelligence and predictive analytics
 - **Tech Stack:** Python, TensorFlow, React, PostgreSQL, AWS
 - **Key Features:** Real-time predictions, data visualization, automated reporting
+- **Security:** Secure API authentication, encrypted data transmission, role-based access
 - **Impact:** Enhanced decision-making through data-driven insights
 
 ### 🏭 Industrial IoT Monitoring System
 Real-time monitoring solution for industrial equipment and sensors
 - **Tech Stack:** C#, MQTT, Azure IoT Hub, Docker
 - **Scale:** Multi-facility deployment with 100+ connected devices
+- **Security:** TLS encryption, device authentication, secure firmware updates
 - **Features:** Real-time alerts, historical data analysis, dashboard visualization
 
 ### ⚛️ Quantum Computing Research
 Implementation and optimization of quantum algorithms for practical problems
 - **Tech Stack:** Q#, Qiskit, Python
-- **Focus Areas:** Quantum optimization, quantum machine learning
+- **Focus Areas:** Quantum optimization, post-quantum cryptography exploration
 - **Learning:** Exploring quantum algorithms and their classical simulation
 
 ---
