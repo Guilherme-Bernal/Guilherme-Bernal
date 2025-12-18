@@ -44,6 +44,7 @@ Computer Engineering student specializing in **Full-Stack Development** with a s
 | **Bash/Shell** | Intermediate | System Administration, Security Automation, Scripts | 3+ years |
 | **C** | Basic | Embedded Systems, Low-Level Programming, Buffer Analysis | 2+ years |
 | **Rust** | Beginner/Basic | Systems Programming, Memory Safety | 1+ year |
+| **Fortran** | Beginner/Basic | Study | - 1 year |
 | **Q#** | Beginner/Intermediate | Quantum Computing, Cryptography Research | 2+ years |
 | **Go** | Beginner/Intermediate | Systems Programming, Security Tools | 1+ year |
 
